@@ -102,6 +102,21 @@
   margin: 0;
   padding: 8px 0 15px;
 }
+.jgrtopll4-c > a > button {
+    padding: 12px 24px;
+    border-radius: .3em;
+    border: none;
+    outline: 0 !important;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    font-family: Montserrat, serif;
+    background: #007a33;
+    border-radius: 50px;
+}
 .jgrtopll4-c > a > button.golden-btn {
     padding: 12px 24px;
     border-radius: .3em;
@@ -275,28 +290,28 @@ img.nlo-f-logo-54PlV {
     background-repeat: no-repeat;
     position: relative;
     z-index: 1;
-    height: 334px;
+    height: 280px;
 }
 .hgTr54_jeCard_bg_1lk.lkO_54Lpo_Card_1 {
     padding: 0px 40px 0px 0px;
     margin-bottom: 20px;
-    box-shadow: 0 14px 34px -7px #d7d7d7;
+    box-shadow: none;
 }
 .lkO_54Lpo_Card_1 > .jgrtopll4-c {
     background: radial-gradient(circle at -1% 57.5%, rgb(0 0 0) 0%, rgb(13 108 53 / 88%) 90%);
     width: 290px;
-    height: 334px;
+    height: 280px;
     padding: 30px 15px;
 }
 .lkO_54Lpo_Card_1 > .jgrtopll4-c > h2 {
     color: #ffffff;
     text-transform: uppercase;
     font-style: italic;
-    text-shadow: 3px 3px 3px #00ed00;
+    text-shadow: 3px 3px 3px #069106;
 }
 .lkO_54Lpo_Card_1 > .jgrtopll4-c > p {
     color: #ffffff;
-    height: 175px;
+    height: 80px;
 }
 .lkO_54Lpo_Card_2 {
     background-image: url('../images/Untitled\ design\ \(42\).png');
@@ -305,28 +320,28 @@ img.nlo-f-logo-54PlV {
     background-repeat: no-repeat;
     position: relative;
     z-index: 1;
-    height: 334px;
+    height: 280px;
 }
 .hgTr54_jeCard_bg_1lk.lkO_54Lpo_Card_2 {
     padding: 0px 40px 0px 0px;
     margin-bottom: 20px;
-    box-shadow: 0 14px 34px -7px #d7d7d7;
+    box-shadow: none;
 }
 .lkO_54Lpo_Card_2 > .jgrtopll4-c {
     background: radial-gradient(circle at -1% 57.5%, rgb(0 0 0) 0%, rgb(13 108 53 / 88%) 90%);
     width: 290px;
-    height: 334px;
+    height: 280px;
     padding: 30px 15px;
 }
 .lkO_54Lpo_Card_2 > .jgrtopll4-c > h2 {
     color: #ffffff;
     text-transform: uppercase;
     font-style: italic;
-    text-shadow: 3px 3px 3px #00ed00;
+    text-shadow: 3px 3px 3px #069106;
 }
 .lkO_54Lpo_Card_2 > .jgrtopll4-c > p {
     color: rgb(255, 255, 255);
-    height: 175px;
+    height: 80px;
 }
 
 .lkO_54Lpo_Card_3 {
@@ -336,28 +351,28 @@ img.nlo-f-logo-54PlV {
     background-repeat: no-repeat;
     position: relative;
     z-index: 1;
-    height: 334px;
+    height: 280px;
 }
 .hgTr54_jeCard_bg_1lk.lkO_54Lpo_Card_3 {
     padding: 0px 40px 0px 0px;
     margin-bottom: 20px;
-    box-shadow: 0 14px 34px -7px #d7d7d7;
+    box-shadow: none;
 }
 .lkO_54Lpo_Card_3 > .jgrtopll4-c {
     background: radial-gradient(circle at -1% 57.5%, rgb(0 0 0) 0%, rgb(13 108 53 / 88%) 90%);
     width: 290px;
-    height: 334px;
+    height: 280px;
     padding: 30px 15px;
 }
 .lkO_54Lpo_Card_3 > .jgrtopll4-c > h2 {
     color: #ffffff;
     text-transform: uppercase;
     font-style: italic;
-    text-shadow: 3px 3px 3px #00ed00;
+    text-shadow: 3px 3px 3px #069106;
 }
 .lkO_54Lpo_Card_3 > .jgrtopll4-c > p {
     color: rgb(255, 255, 255);
-    height: 175px;
+    height: 80px;
 }
 .lkO_54Lpo_Card_4 {
     background-image: url('../images/Untitled\ design\ \(43\).png');
@@ -366,26 +381,97 @@ img.nlo-f-logo-54PlV {
     background-repeat: no-repeat;
     position: relative;
     z-index: 1;
-    height: 334px;
+    height: 280px;
 }
 .hgTr54_jeCard_bg_1lk.lkO_54Lpo_Card_4 {
     padding: 0px 40px 0px 0px;
     margin-bottom: 20px;
-    box-shadow: 0 14px 34px -7px #d7d7d7;
+    box-shadow: none;
 }
 .lkO_54Lpo_Card_4 > .jgrtopll4-c {
     background: radial-gradient(circle at -1% 57.5%, rgb(0 0 0) 0%, rgb(13 108 53 / 88%) 90%);
     width: 290px;
-    height: 334px;
+    height: 280px;
     padding: 30px 15px;
 }
 .lkO_54Lpo_Card_4 > .jgrtopll4-c > h2 {
     color: #ffffff;
     text-transform: uppercase;
     font-style: italic;
-    text-shadow: 3px 3px 3px #00ed00;
+    text-shadow: 3px 3px 3px #069106;
 }
 .lkO_54Lpo_Card_4 > .jgrtopll4-c > p {
     color: rgb(255, 255, 255);
-    height: 175px;
+    height: 80px;
+}
+
+.hgTr54_jeCard_bg_1lk {
+    cursor: pointer;
+    margin: 0px 12px;
+}
+.lkO_54Lpo_Card_1 .jgrtopll4-c > h2 > img {
+    width: 22px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+}
+.lkO_54Lpo_Card_2 .jgrtopll4-c > h2 > img {
+    width: 22px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+}
+.lkO_54Lpo_Card_3 .jgrtopll4-c > h2 > img {
+    width: 22px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+}
+.lkO_54Lpo_Card_1 .jgrtopll4-c > h2 > img {
+    width: 28px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+    margin: 0px;
+}
+.lkO_54Lpo_Card_2 .jgrtopll4-c > h2 > img {
+    width: 28px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+    margin: 0px;
+}
+.lkO_54Lpo_Card_3 .jgrtopll4-c > h2 > img {
+    width: 28px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+    margin: 0px;
+}
+.lkO_54Lpo_Card_4 .jgrtopll4-c > h2 > img {
+    width: 24px;
+    position: absolute;
+    top: 7px;
+    left: -10px;
+    margin: 0px;
+}
+.lkO_54Lpo_Card_1 > .jgrtopll4-c > h2{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+.lkO_54Lpo_Card_2 > .jgrtopll4-c > h2{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+.lkO_54Lpo_Card_3 > .jgrtopll4-c > h2{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+.lkO_54Lpo_Card_4 > .jgrtopll4-c > h2{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
 }
